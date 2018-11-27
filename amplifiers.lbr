@@ -326,7 +326,7 @@
 <technologies>
 <technology name="">
 <attribute name="MPN" value="OP1177ARZ" constant="no"/>
-<attribute name="OC_FARNELL" value="8621594" constant="no"/>
+<attribute name="OC_FARNELL" value="2074880" constant="no"/>
 <attribute name="OC_NEWARK" value="19M1025" constant="no"/>
 <attribute name="PACKAGE" value="MSOP-8" constant="no"/>
 <attribute name="SUPPLIER" value="Analog Devices" constant="no"/>
@@ -345,7 +345,10 @@
 <connect gate="A" pin="V-" pad="4"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="OC_FARNELL" value="8621594"/>
+<attribute name="PACKAGE" value="SOIC, 8 "/>
+</technology>
 </technologies>
 </device>
 </devices>
